@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(8, 8, 8);
+}
+ul li {
+    color: rgb(243, 236, 236);
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    color: rgb(2, 2, 2);
+    display: block;
+    font-style: italic;
+    flex-direction: column-reverse;
+    float: unset;
+}
+ul {
+    float: right;
+    margin-right: 20px;
+    word-spacing: 20px;
+}
+.header {
+    height: 50px;
+    background-color: deeppink;
+}
